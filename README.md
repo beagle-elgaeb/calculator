@@ -1,6 +1,6 @@
 # Калькулятор для вычисления угла из длины окружности
 
-_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/calculator/)_
+<!-- _[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/calculator/)_ -->
 
 <p>
   <a href="https://developer.mozilla.org/ru/docs/Web/CSS"><img src="readme/icon-css3.svg" alt="CSS3"></a>
@@ -13,8 +13,6 @@ _[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.gi
   <img src="readme/icon-whitespace-5px.svg"/>
   <a href="https://webpack.js.org/"><img src="readme/icon-webpack.svg" alt="WebPack"></a>
   <img src="readme/icon-whitespace-5px.svg"/>
-  <a href="https://ru.wikipedia.org/wiki/REST"><img src="readme/icon-api.svg" alt="REST API"></a>
-  <img src="readme/icon-whitespace-5px.svg"/>
   <a href="https://ru.reactjs.org/"><img src="readme/icon-react.svg" alt="React"></a>
   <img src="readme/icon-whitespace-5px.svg"/>
   <a href="https://styled-components.com/"><img src="readme/icon-styled-components.svg" alt="Styled-components"></a>
@@ -22,7 +20,7 @@ _[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.gi
 
 ### Функциональность проекта
 
-- калькулятор получает значения радиуса окружности и нужной длины дуги в миллиметрах, рассчитывает угол с точностью до 0.000001 градуса
+- Калькулятор получает значения радиуса окружности и нужной длины дуги в миллиметрах, рассчитывает угол
 
 ### Задачи проекта
 
