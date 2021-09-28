@@ -1,6 +1,6 @@
 # Калькулятор для вычисления угла из длины окружности
 
-<!-- _[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/calculator/)_ -->
+_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/calculator/)_
 
 <p>
   <a href="https://developer.mozilla.org/ru/docs/Web/CSS"><img src="readme/icon-css3.svg" alt="CSS3"></a>
